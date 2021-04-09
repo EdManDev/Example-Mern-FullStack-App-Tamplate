@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/client/node_modules
+
+# if  in production (ENABLE IT .env)
+# .env
+
 /.pnp
 .pnp.js
 
@@ -21,3 +26,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+node_modules
