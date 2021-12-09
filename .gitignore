@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /frontend/node_modules
+/server/node_modules
 
 # if  in production (ENABLE IT .env)
 # .env
