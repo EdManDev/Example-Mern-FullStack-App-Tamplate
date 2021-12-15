@@ -1,6 +1,6 @@
 ## All Routes
 
-### Authentication Admin
+### Authentication
 
 ```
 POST     /api/auth/register
