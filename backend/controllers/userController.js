@@ -20,7 +20,7 @@ exports.postUser = (req, res) => {
 
 // ======================================================================================
 // @desc      update User
-// @route     PUT /api/user
+// @route     PUT /api/user/:id
 // @access    Public
 // ======================================================================================
 exports.putUser = (req, res) => {
@@ -29,7 +29,7 @@ exports.putUser = (req, res) => {
 
 // ======================================================================================
 // @desc      Remove User
-// @route     DELETE /api/user
+// @route     DELETE /api/user/:id
 // @access    Public
 // ======================================================================================
 exports.deleteUser = (req, res) => {
